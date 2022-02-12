@@ -1,4 +1,4 @@
-# ST 2110-10:2017 - SMPTE Standard - Professional Media Over Managed IP Networks: System Timing and Definitions
+# ST 2110-10 - SMPTE Standard - Professional Media Over Managed IP Networks: System Timing and Definitions
 
 _This repository is *public*._
 
